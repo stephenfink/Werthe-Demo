@@ -1,0 +1,14 @@
+.title{
+    color: aliceblue;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(20, 69, 160);
+}
+
+.footer{
+    color: aliceblue;
+    text-align: center;
+    background-color: aquamarine;
+}
